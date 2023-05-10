@@ -11,7 +11,7 @@ public class arraylist {
 
 		ArrayList<String> al = new ArrayList<String>();
 		
-		al.add("string");
+		al.add("strdddding");
 		al.add("add");
 		
 		
